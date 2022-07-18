@@ -1,0 +1,3 @@
+[2022-07-18T18:37:29.520Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+[2022-07-18T18:37:30.045Z] [WARNING] https://www.googleadservices.com/pagead/conversion.js 26 Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.
+[2022-07-18T18:37:33.189Z] [SEVERE] https://mc.yandex.com/sync_cookie_image_decide?token=9703.55Kh67hXqIkE23MsqH7fffdsh0ynjwWQhwj3SeKGyrdiIr-5hsqXo8Z1C0Q4o7XrP1PTMbHSOhMTp8VU7nJQvA%2C%2C.Ni7rnx0N6w2UBMBc0jhYSJ7_U5I%2C - Failed to load resource: the server responded with a status of 400 ()
